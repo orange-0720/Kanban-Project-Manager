@@ -23,3 +23,13 @@ I can't wait to see your changes.
 When you've successfully built a Kanban app, if you'd like to post about it on LinkedIn and tag me, then I'll weigh in to amplify your success and draw more attention to your achievements.
 
 If you see other students doing this, please weigh in yourself to add your support and encouragement. It's so helpful for the community if we support each other.
+
+## Original Project & Credits
+
+This project is based on the original starter repository provided by Ed Donner for the Complete AI Coder Course.
+
+- **Original Repository:** https://github.com/ed-donner/kanban
+- **Course:** Complete AI Coder Course
+- **Purpose:** Learning, experimentation, and personal development.
+
+Additional modifications and features were implemented as part of my learning journey.
